@@ -16,6 +16,9 @@ A beautiful, responsive movie search app built using React, TMDB API, Tailwind C
 - Appwrite
 - TMDB API
 
+## 🌐 Live Demo
+https://movie-app-six-self.vercel.app/
+
 ## 📦 Installation
 
 ```bash
@@ -24,4 +27,4 @@ cd movie-app
 npm install
 npm run dev
 
-🌐 Live Demo
+
